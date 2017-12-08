@@ -1,0 +1,44 @@
+/* *{ */
+/* 	background-color: grey; */
+
+/* } */
+	
+
+/* h1 { */
+/*         color: slightred; */
+/* } */
+
+/* h3 { */
+/*         color: white; */
+/* } */
+
+/* P { */
+/*         color: white; */
+/* } */
+
+#header {
+	margin-bottom: 50px;
+}
+
+.links {
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.box {
+	padding: 20px;
+	border: 1px solid black;
+	width: 40%;
+	margin: 0 auto;
+}
+
+.marginBottom {
+	margin-bottom: 40px;
+}
+
+.projects {
+	width: 70%;
+	margin: 0 auto;
+	height: 150px;
+}
+

@@ -1,0 +1,11 @@
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\admindashboardApplication.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\config\WebSecurityConfig.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\models\User.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\services\UserService.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\models\Role.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\services\RoleService.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\validators\UserValidator.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\services\UserDetailsServiceImplementaion.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\controllers\Users.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\repositories\UserRepository.java
+C:\Users\biniam\documents\admindashboard\src\main\java\com\project\admindashboard\repositories\RoleRepository.java

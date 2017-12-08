@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thecode
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: BINIAM
+Implementation-Vendor-Id: com.project.thecode
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/thecode/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
